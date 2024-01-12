@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "privateparser"
+version = "0.1.0"
+description = ""
+authors = ["Artem <63448341+Gilah-EnE@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyrogram = "^2.0.106"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
